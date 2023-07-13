@@ -1,0 +1,4 @@
+name: Hyggen
+version: '${project.version}'
+main: online.hyggen.hyggen_plugin.Hyggen
+api-version: '1.20'
